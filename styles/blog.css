@@ -1,7 +1,14 @@
 
-button
 div{
     background-color:aquamarine;
     padding: 20px;
     margin-bottom: 5px;
+    width: 50%;
+    border-radius: 10px;
+    
+}
+.btn{
+    color: red;
+}
+
 }
